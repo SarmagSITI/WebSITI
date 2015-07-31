@@ -33,28 +33,15 @@ body {
 		height: 260px;
 	}
 }
-@media(min-width:645px) and (max-width: 750px){
-	.business-header {
-		height: 220px;
-	}
-}
-@media(min-width:520px) and (max-width: 644px){
-	.business-header {
-		height: 180px;
-	}
-}
-
-
-@media(min-width:376px) and (max-width: 519px){
-	.business-header {
-		height: 150px;
-	}
-}
-
 
 @media(min-width:320px) and (max-width: 375px){
 	.business-header {
 		height: 110px;
+	}
+}
+@media(min-width:376px) and (max-width: 519px){
+	.business-header {
+		height: 150px;
 	}
 }
 
